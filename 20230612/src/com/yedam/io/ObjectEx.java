@@ -27,7 +27,7 @@ public class ObjectEx {
 
 	public static void main(String[] args) throws Exception {
 		
-		method2();
+		method1();
 		System.out.println("end of prog.");
 	}
 	public static void method2() throws Exception{
